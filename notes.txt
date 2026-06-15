@@ -1,0 +1,4 @@
+Access t- short lived
+Refresh t- long lived
+people who have t are authenticated 
+refrsh token stored in db also
